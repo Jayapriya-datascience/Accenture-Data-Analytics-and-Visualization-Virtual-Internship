@@ -1,4 +1,10 @@
 # Accenture-Data-Analytics-and-Visualization-Virtual-Internship
+
+In this project, I analyzed Social Buzz's content dataset to identify the top 5 most popular categories using reaction scores. Tasks included data cleaning, merging multiple datasets, and building visual reports (pie/bar charts). Final insights were presented in a client-facing PowerPoint deck.
+
+**Skills Used:** Data Cleaning, Data Analysis, Excel, PowerPoint, Data Visualization, Storytelling
+
+
 Task - 1
 
 Project Understanding:
